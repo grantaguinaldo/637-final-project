@@ -19,7 +19,7 @@ num_samples = 25000
 itr = 500
 
 # Register for an API key at `positionstack.com` and enter the key that you get below.
-access_key = '3672c4cf2312bc5aee2ad7a47d462206'
+access_key = '<INSERT API KEY HERE>'
 
 url = 'https://s3.amazonaws.com/vbgov-ckan-open-data/EMS+Calls+For+Service.csv'
 df = pd.read_csv(url)
